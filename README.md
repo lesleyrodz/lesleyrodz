@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm passionate about transforming data into meanin
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/lesley-rodriguez-195a1a280)]
-[![Email](mailto:lesleyrodz@icloud.com)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesley-rodriguez-195a1a280)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lesleyrodz@icloud.com)
 ---
 
 > “Data is a tool for making better decisions. Let's build something impactful with it.”
